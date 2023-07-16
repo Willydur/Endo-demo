@@ -1,2 +1,25 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+  import Graph from "../components/graph.svelte";
+  import SliderCat from "../components/sliderCat.svelte";
+  import Qui from "../components/qui.svelte";
+</script>
+
+<div class="mother">
+  <section>
+    <Qui />
+  </section>
+  <section>
+    <Graph />
+  </section>
+  <section>
+    <SliderCat />
+  </section>
+</div>
+
+<style>
+  .mother {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+  }
+</style>
