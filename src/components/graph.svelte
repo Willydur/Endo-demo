@@ -97,7 +97,7 @@
     font-size: 30px;
     font-weight: 900;
     text-align: center;
-    width: 200px;
+    width: 215px;
     margin: 30px;
     padding: 10px 20px 10px 20px; /* top right bottom left */
     background-color: #000;
