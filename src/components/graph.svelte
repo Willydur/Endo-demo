@@ -23,7 +23,7 @@
   </div>
   <div class="col col3">
     <img src="logo/fuck.png" class="cologo" alt="logo" />
-    <div class="coltitle">/drop useless</div>
+    <div class="coltitle">/fck mediocrity</div>
     <div class="colspitch">
       Nous refusons de livrer des produits de m*rde.
       <strong
@@ -36,7 +36,7 @@
   </div>
   <div class="col col4">
     <img src="logo/fleur.png" class="cologo" alt="logo" />
-    <div class="coltitle">/drop useless</div>
+    <div class="coltitle">/we r unified</div>
     <div class="colspitch">
       La <strong>famille</strong> est l'essence même de notre société. Chaque
       membre de notre équipe apporte sa contribution précieuse à l'édifice et
