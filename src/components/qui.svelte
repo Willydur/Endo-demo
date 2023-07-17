@@ -12,16 +12,16 @@
 <style>
   .spacer {
     width: 100%;
-    height: 200px;
+    height: 100px;
   }
 
   .big-div {
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: center;
-    height: 400px;
+    margin: 80px 25px 0 25px; /* top right bottom left */
   }
 
   .pic {
