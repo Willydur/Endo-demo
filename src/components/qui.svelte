@@ -19,7 +19,7 @@
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: center;
     margin: 80px 25px 0 25px; /* top right bottom left */
   }
